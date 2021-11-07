@@ -1,3 +1,20 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://veall.com/'
+languageCode = 'en-gb'
+title = 'veall.com'
+
+# Novela settings
+theme = "novela"
+
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/crispibits"
+github= "https://github.com/crispibits"
+linkedin= "https://www.linkedin.com/crispin.veall"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
+
